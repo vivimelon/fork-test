@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 👩‍🎓 I’m currently a CS undergrad at [Govt. Engineering College, Thrissur](https://gectcr.ac.in/)
+- 👩‍🎓 a CS undergrad at [Govt. Engineering College, Thrissur](https://gectcr.ac.in/) 
+- 👩‍🎓 a student in IITM Bsc online degree course
 - 🌱 I’m currently learning App development using Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aswiniat100/) 
   </br></br>🔨 Languages and Tools
