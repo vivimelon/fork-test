@@ -6,9 +6,9 @@
 <h3 align="center">CSE Undergrad</h3>
 
 
-- 🔭 I’m currently working on a **flask app**
+- 🔭 I’m currently working on a **React app**
 
-- 🌱 I’m currently learning **flask, flutter, Blockchain, Solidity**
+- 🌱 I’m currently learning **React JS, Node JS, Blockchain, Solidity**
 
 - 📫 How to reach me **https://twitter.com/aswiniat100**
 
