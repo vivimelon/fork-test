@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/yTFemEJxmeW2YLOT6p/giphy.gif" width="250" height="200" align="center"/>
 </div>
 <h1 align="center">Hi, I'm <a href="https://github.com/Ash-394">Aswini 👋</a></h1>
-<h3 align="center">CSE Undergrad</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 - 🔭 I’m currently working on a **React app**
