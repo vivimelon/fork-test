@@ -28,14 +28,12 @@ def draw():
 while True:
     draw()
     
-    # Player controls
     command = input("Move (W/S): ").strip().lower()
     if command == 'w' and player_y > 1:
         player_y -= 1
     elif command == 's' and player_y < height - 2:
         player_y += 1
 
-    # CPU AI movement
     if cpu_y < ball_y and cpu_y < height - 2:
         cpu_y += 1
     elif cpu_y > ball_y and cpu_y > 1:
